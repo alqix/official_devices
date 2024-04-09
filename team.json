@@ -191,7 +191,7 @@
       "XDA": "priyanshu-jangid.10108762",
       "role": "Maintainer",
       "devices": ["redwood"]
-    }
+    },
     {
       "name": "FPSensor",
       "image": "https://i.imgur.com/zNV4rxq.png",
@@ -200,6 +200,6 @@
       "XDA": "fpsensor.11354229",
       "role": "Maintainer",
       "devices": ["cypfq"]
-    },
+    }
   ]
 }
