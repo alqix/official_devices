@@ -266,6 +266,13 @@
             "model": "Galaxy Tab A7",
             "maintainer_name": "CuriousNom",
             "active": true
+         },
+         {
+            "codename": "gta4xlwifi",
+            "vendor": "Samsung",
+            "model": "Galaxy Tab S6 Lite 2020 Wifi",
+            "maintainer_name": "Jrcable2",
+            "active": true
          }
     ]
 }
