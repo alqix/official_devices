@@ -200,6 +200,15 @@
       "XDA": "fpsensor.11354229",
       "role": "Maintainer",
       "devices": ["cypfq"]
+    },
+    {
+      "name": "Alec Chan",
+      "image": "https://avatars.githubusercontent.com/u/88945170?s=400&v=4",
+      "github": "alecchangod",
+      "telegram": "alecchangod",
+      "XDA": "alec-chan.11250565",
+      "role": "Maintainer",
+      "devices": ["monet"]
     }
   ]
 }
