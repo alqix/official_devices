@@ -2,7 +2,7 @@
     "maintainer": [
         {
             "display_name": "Pyrtle93",
-            "telegram": "https://t.me/Pyrtle93",
+            "telegram": "https://t.me/PyrtlesPixels",
             "github": "https://github.com/Pyrtle93"
         }
     ],
@@ -17,5 +17,5 @@
     "version": "fourteen",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": null
+    "xda": "https://xdaforums.com/t/rom-a14-pixel-7-series-matrixx-v10-3-0-gapps-03-05-2024.4654436/"
 }
