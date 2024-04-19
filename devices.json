@@ -1,285 +1,292 @@
 {
-    "devices": [
-         {
-            "codename": "X01AD",
-            "vendor": "ASUS",
-            "model": "Zenfone Max M2",
-            "maintainer_name": "AssunZain",
-            "active": true
-         },
-         {
-            "codename": "bluejay",
-            "vendor": "Google",
-            "model": "Pixel 6a",
-            "maintainer_name": "EinarG.",
-            "active": true
-         },
-         {
-            "codename": "oriole",
-            "vendor": "Google",
-            "model": "Pixel 6",
-            "maintainer_name": "EinarG.",
-            "active": true
-         },
-         {
-            "codename": "raven",
-            "vendor": "Google",
-            "model": "Pixel 6 Pro",
-            "maintainer_name": "EinarG.",
-            "active": true
-         },
-         {
-            "codename": "lynx",
-            "vendor": "Google",
-            "model": "Pixel 7a",
-            "maintainer_name": "Pyrtle93",
-            "active": true
-         },
-         {
-            "codename": "panther",
-            "vendor": "Google",
-            "model": "Pixel 7",
-            "maintainer_name": "Pyrtle93",
-            "active": true
-         },
-         {
-            "codename": "cheetah",
-            "vendor": "Google",
-            "model": "Pixel 7 Pro",
-            "maintainer_name": "Pyrtle93",
-            "active": true
-         },
-         {
-            "codename": "cepheus",
-            "vendor": "Xiaomi",
-            "model": "Mi 9",
-            "maintainer_name": "RDS_07",
-            "active": true
-         },
-         {
-            "codename": "alioth",
-            "vendor": "Xiaomi",
-            "model": "POCO F3/K40/Mi 11X",
-            "maintainer_name": "Roxor-007",
-            "active": true
-         },
-         {
-            "codename": "marble",
-            "vendor": "Xiaomi",
-            "model": "POCO F5/Redmi note 12 turbo",
-            "maintainer_name": "KSSRAO",
-            "active": true
-         },
-         {
-            "codename": "veux",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
-            "maintainer_name": "Aswin OP",
-            "active": true
-         },
-         {
-            "codename": "redwood",
-            "vendor": "Xiaomi",
-            "model": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed",
-            "maintainer_name": "PRIYANSHU",
-            "active": true
-         },
-         {
-            "codename": "monet",
-            "vendor": "Xiaomi",
-            "model": "Mi 10 Lite 5G",
-            "maintainer_name": "Alec Chan",
-            "active": true
-         },
-         {
-            "codename": "stone",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 12 / POCO X5 5G",
-            "maintainer_name": "Arijit Saha",
-            "active": true
-         },
-         {
-            "codename": "sakura",
-            "vendor": "Xiaomi",
-            "model": "Redmi 6 Pro",
-            "maintainer_name": "obito_svha",
-            "active": true
-         },
-         {
-            "codename": "whyred",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 5",
-            "maintainer_name": "Arijit Saha",
-            "active": true
-         },
-         {
-            "codename": "sweet",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 10 Pro",
-            "maintainer_name": "kamlesh-patel",
-            "active": true
-         },
-         {
-            "codename": "spes",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 11",
-            "maintainer_name": "sayann70",
-            "active": true
-         },
-         {
-            "codename": "violet",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 7 Pro",
-            "maintainer_name": "CuriousNom",
-            "active": true
-         },
-         {
-            "codename": "vayu",
-            "vendor": "Xiaomi",
-            "model": "POCO X3 PRO",
-            "maintainer_name": "Mrick343",
-            "active": true
-         },
-         {
-            "codename": "vili",
-            "vendor": "Xiaomi",
-            "model": "Xiaomi 11T Pro",
-            "maintainer_name": "Cr1st1anlp",
-            "active": true
-         },
-         {
-            "codename": "devon",
-            "vendor": "Motorola",
-            "model": "Moto G32",
-            "maintainer_name": "Jay",
-            "active": true
-         },
-         {
-            "codename": "hawao",
-            "vendor": "Motorola",
-            "model": "Moto G42",
-            "maintainer_name": "Jay",
-            "active": true
-         },
-         {
-            "codename": "rhode",
-            "vendor": "Motorola",
-            "model": "Moto G52",
-            "maintainer_name": "Jay",
-            "active": true
-         },
-         {
-            "codename": "rhodep",
-            "vendor": "Motorola",
-            "model": "Moto G82 5G",
-            "maintainer_name": "IczYn",
-            "active": true
-         },
-         {
-            "codename": "Spacewar",
-            "vendor": "Nothing",
-            "model": "Nothing Phone (1)",
-            "maintainer_name": "zizzyboi",
-            "active": true
-         },
-         {
-            "codename": "hotdogb",
-            "vendor": "OnePlus",
-            "model": "OnePlus 7T",
-            "maintainer_name": "mukesh22584",
-            "active": true
-         },
-         {
-            "codename": "hotdog",
-            "vendor": "OnePlus",
-            "model": "OnePlus 7T pro",
-            "maintainer_name": "mukesh22584",
-            "active": true
-         },
-         {
-            "codename": "instantnoodle",
-            "vendor": "OnePlus",
-            "model": "OnePlus 8",
-            "maintainer_name": "zizzyboi",
-            "active": true
-         },
-         {
-            "codename": "instantnoodlep",
-            "vendor": "OnePlus",
-            "model": "OnePlus 8 Pro",
-            "maintainer_name": "zizzyboi",
-            "active": true
-         },
-         {
-            "codename": "kebab",
-            "vendor": "OnePlus",
-            "model": "OnePlus 8T",
-            "maintainer_name": "zizzyboi",
-            "active": true
-         },
-         {
-            "codename": "lemonade",
-            "vendor": "OnePlus",
-            "model": "OnePlus 9",
-            "maintainer_name": "mukesh22584",
-            "frame": null,
-            "active": true
-         },
-         {
-            "codename": "lemonadep",
-            "vendor": "OnePlus",
-            "model": "OnePlus 9 Pro",
-            "maintainer_name": "mukesh22584",
-            "active": true
-         },
-         {
-            "codename": "martini",
-            "vendor": "OnePlus",
-            "model": "OnePlus 9RT",
-            "maintainer_name": "Mrick343",
-            "active": true
-         },
-         {
-            "codename": "bladerunner",
-            "vendor": "Realme",
-            "model": "Realme X50 Pro 5G",
-            "maintainer_name": "AAMIR ALI",
-            "active": true
-         },
-         {
-            "codename": "RMX2020",
-            "vendor": "Realme",
-            "model": "C3",
-            "maintainer_name": "Rinto",
-            "active": true
-         },
-         {
-            "codename": "beyond",
-            "vendor": "Samsung",
-            "model": "Galay s10 series",
-            "maintainer_name": "FrEeRuNnEr4EvEr",
-            "active": true
-         },
-         {
-            "codename": "f62",
-            "vendor": "Samsung",
-            "model": "Galaxy f62",
-            "maintainer_name": "FrEeRuNnEr4EvEr",
-            "active": true
-         },
-         {
-            "codename": "gta4lwifi",
-            "vendor": "Samsung",
-            "model": "Galaxy Tab A7",
-            "maintainer_name": "CuriousNom",
-            "active": true
-         },
-         {
-            "codename": "gta4xlwifi",
-            "vendor": "Samsung",
-            "model": "Galaxy Tab S6 Lite 2020 Wifi",
-            "maintainer_name": "Jrcable2",
-            "active": true
-         }
-    ]
+  "devices": [
+       {
+          "codename": "X01AD",
+          "vendor": "ASUS",
+          "model": "Zenfone Max M2",
+          "maintainer_name": "AssunZain",
+          "active": true
+       },
+       {
+          "codename": "bluejay",
+          "vendor": "Google",
+          "model": "Pixel 6a",
+          "maintainer_name": "EinarG.",
+          "active": true
+       },
+       {
+          "codename": "oriole",
+          "vendor": "Google",
+          "model": "Pixel 6",
+          "maintainer_name": "EinarG.",
+          "active": true
+       },
+       {
+          "codename": "raven",
+          "vendor": "Google",
+          "model": "Pixel 6 Pro",
+          "maintainer_name": "EinarG.",
+          "active": true
+       },
+       {
+          "codename": "lynx",
+          "vendor": "Google",
+          "model": "Pixel 7a",
+          "maintainer_name": "Pyrtle93",
+          "active": true
+       },
+       {
+          "codename": "panther",
+          "vendor": "Google",
+          "model": "Pixel 7",
+          "maintainer_name": "Pyrtle93",
+          "active": true
+       },
+       {
+          "codename": "cheetah",
+          "vendor": "Google",
+          "model": "Pixel 7 Pro",
+          "maintainer_name": "Pyrtle93",
+          "active": true
+       },
+       {
+          "codename": "cepheus",
+          "vendor": "Xiaomi",
+          "model": "Mi 9",
+          "maintainer_name": "RDS_07",
+          "active": true
+       },
+       {
+          "codename": "alioth",
+          "vendor": "Xiaomi",
+          "model": "POCO F3/K40/Mi 11X",
+          "maintainer_name": "Roxor-007",
+          "active": true
+       },
+       {
+          "codename": "marble",
+          "vendor": "Xiaomi",
+          "model": "POCO F5/Redmi note 12 turbo",
+          "maintainer_name": "KSSRAO",
+          "active": true
+       },
+       {
+          "codename": "veux",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
+          "maintainer_name": "Aswin OP",
+          "active": true
+       },
+       {
+          "codename": "redwood",
+          "vendor": "Xiaomi",
+          "model": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed",
+          "maintainer_name": "PRIYANSHU",
+          "active": true
+       },
+       {
+          "codename": "monet",
+          "vendor": "Xiaomi",
+          "model": "Mi 10 Lite 5G",
+          "maintainer_name": "Alec Chan",
+          "active": true
+       },
+       {
+          "codename": "stone",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 12 / POCO X5 5G",
+          "maintainer_name": "Arijit Saha",
+          "active": true
+       },
+       {
+          "codename": "sakura",
+          "vendor": "Xiaomi",
+          "model": "Redmi 6 Pro",
+          "maintainer_name": "obito_svha",
+          "active": true
+       },
+       {
+          "codename": "whyred",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 5",
+          "maintainer_name": "Arijit Saha",
+          "active": true
+       },
+       {
+          "codename": "sweet",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 10 Pro",
+          "maintainer_name": "kamlesh-patel",
+          "active": true
+       },
+       {
+          "codename": "spes",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 11",
+          "maintainer_name": "sayann70",
+          "active": true
+       },
+       {
+          "codename": "violet",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 7 Pro",
+          "maintainer_name": "CuriousNom",
+          "active": true
+       },
+       {
+          "codename": "vayu",
+          "vendor": "Xiaomi",
+          "model": "POCO X3 PRO",
+          "maintainer_name": "Mrick343",
+          "active": true
+       },
+       {
+          "codename": "vili",
+          "vendor": "Xiaomi",
+          "model": "Xiaomi 11T Pro",
+          "maintainer_name": "Cr1st1anlp",
+          "active": true
+       },
+       {
+          "codename": "devon",
+          "vendor": "Motorola",
+          "model": "Moto G32",
+          "maintainer_name": "Jay",
+          "active": true
+       },
+       {
+          "codename": "hawao",
+          "vendor": "Motorola",
+          "model": "Moto G42",
+          "maintainer_name": "Jay",
+          "active": true
+       },
+       {
+          "codename": "rhode",
+          "vendor": "Motorola",
+          "model": "Moto G52",
+          "maintainer_name": "Jay",
+          "active": true
+       },
+       {
+          "codename": "rhodep",
+          "vendor": "Motorola",
+          "model": "Moto G82 5G",
+          "maintainer_name": "IczYn",
+          "active": true
+       },
+       {
+          "codename": "Spacewar",
+          "vendor": "Nothing",
+          "model": "Nothing Phone (1)",
+          "maintainer_name": "zizzyboi",
+          "active": true
+       },
+       {
+          "codename": "hotdogb",
+          "vendor": "OnePlus",
+          "model": "OnePlus 7T",
+          "maintainer_name": "mukesh22584",
+          "active": true
+       },
+       {
+          "codename": "hotdog",
+          "vendor": "OnePlus",
+          "model": "OnePlus 7T pro",
+          "maintainer_name": "mukesh22584",
+          "active": true
+       },
+       {
+          "codename": "instantnoodle",
+          "vendor": "OnePlus",
+          "model": "OnePlus 8",
+          "maintainer_name": "zizzyboi",
+          "active": true
+       },
+       {
+          "codename": "instantnoodlep",
+          "vendor": "OnePlus",
+          "model": "OnePlus 8 Pro",
+          "maintainer_name": "zizzyboi",
+          "active": true
+       },
+       {
+          "codename": "kebab",
+          "vendor": "OnePlus",
+          "model": "OnePlus 8T",
+          "maintainer_name": "zizzyboi",
+          "active": true
+       },
+       {
+          "codename": "lemonade",
+          "vendor": "OnePlus",
+          "model": "OnePlus 9",
+          "maintainer_name": "mukesh22584",
+          "frame": null,
+          "active": true
+       },
+       {
+          "codename": "lemonadep",
+          "vendor": "OnePlus",
+          "model": "OnePlus 9 Pro",
+          "maintainer_name": "mukesh22584",
+          "active": true
+       },
+       {
+          "codename": "martini",
+          "vendor": "OnePlus",
+          "model": "OnePlus 9RT",
+          "maintainer_name": "Mrick343",
+          "active": true
+       },
+       {
+          "codename": "bladerunner",
+          "vendor": "Realme",
+          "model": "Realme X50 Pro 5G",
+          "maintainer_name": "AAMIR ALI",
+          "active": true
+       },
+       {
+          "codename": "RMX2020",
+          "vendor": "Realme",
+          "model": "C3",
+          "maintainer_name": "Rinto",
+          "active": true
+       },
+       {
+          "codename": "beyond",
+          "vendor": "Samsung",
+          "model": "Galay s10 series",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "f62",
+          "vendor": "Samsung",
+          "model": "Galaxy f62",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "gta4lwifi",
+          "vendor": "Samsung",
+          "model": "Galaxy Tab A7",
+          "maintainer_name": "CuriousNom",
+          "active": true
+       },
+       {
+          "codename": "gta4xlwifi",
+          "vendor": "Samsung",
+          "model": "Galaxy Tab S6 Lite 2020 Wifi",
+          "maintainer_name": "Jrcable2",
+          "active": true
+       },
+       {
+          "codename": "mondrian",
+          "vendor": "Xiaomi",
+          "model": "POCO F5 Pro/Redmi K60",
+          "maintainer_name": "Lowxorx",
+          "active": true
+       }
+  ]
 }
