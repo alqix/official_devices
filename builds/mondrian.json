@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Lowxorx",
+            "telegram": "https://t.me/Lowxorx",
+            "github": "https://github.com/Lowxorx"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Poco F5 Pro",
+    "device_display_codename": "mondrian",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/mondrian/",
+    "version": "fourteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://xdaforums.com/t/rom-14-unofficial-project-matrixx-10-3-1-for-poco-f5-pro-redmi-k60.4662894/"
+}
