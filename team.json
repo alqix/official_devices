@@ -209,6 +209,15 @@
       "XDA": "alec-chan.11250565",
       "role": "Maintainer",
       "devices": ["monet"]
+    },
+    {
+      "name": "Lowxorx",
+      "image": "https://avatars.githubusercontent.com/u/56053431?s=96&v=4",
+      "github": "Lowxorx",
+      "telegram": "lowxorx",
+      "XDA": "lowxorx.5870340",
+      "role": "Maintainer",
+      "devices": ["mondrian"]
     }
   ]
-}
+} 
