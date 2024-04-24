@@ -11,11 +11,11 @@
         "fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "Nothing Phone (1) ",
-    "device_display_codename": "spacewar",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/Spacewar/",
+    "device_display_name": "OnePlus 9R",
+    "device_display_codename": "lemonades",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonades/",
     "version": "fourteen",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": "https://xdaforums.com/t/matrixxos-v10-2-1-official-for-nothing-phone-1-a14-january-nothing-cam-included-stable.4646969/"
+    "xda": "https://xdaforums.com/t/rom-a14-project-matrixx10-2-1-25-01-24-instantnoodlep-instantnoodle-kebab-official.4652983/"
 }
