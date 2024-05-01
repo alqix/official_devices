@@ -240,6 +240,13 @@
           "active": true
        },
        {
+          "codename": "surya",
+          "vendor": "Xiaomi",
+          "model": "POCO X3/POCO X3 NFC",
+          "maintainer_name": ["lily985", "Muichir09"],
+          "active": true
+       },
+       {
           "codename": "martini",
           "vendor": "OnePlus",
           "model": "OnePlus 9RT",

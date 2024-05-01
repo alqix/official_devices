@@ -218,6 +218,24 @@
       "XDA": "lowxorx.5870340",
       "role": "Maintainer",
       "devices": ["mondrian"]
+    },
+    {
+      "name": "LiLY",
+      "image": "https://i.imgur.com/eUElOs6.jpeg",
+      "github": "shoya0x00",
+      "telegram": "lily985",
+      "XDA": null,
+      "role": " Maintainer",
+      "devices": ["surya"]
+    },
+    {
+      "name": "Muichir09",
+      "image": "https://i.imgur.com/O62eX2L.jpeg",
+      "github": "muichiro09",
+      "telegram": "Muichir09",
+      "XDA": null,
+      "role": " Co-Maintainer",
+      "devices": ["surya"]
     }
   ]
 } 

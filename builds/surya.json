@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "LiLY_&_Muichir09",
+            "telegram": "https://t.me/lily985",
+            "github": "https://github.com/shoya0x00"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "POCO X3/POCO X3 NFC",
+    "device_display_codename": "surya",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/surya/",
+    "version": "fourteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
