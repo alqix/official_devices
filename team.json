@@ -236,6 +236,15 @@
       "XDA": null,
       "role": " Co-Maintainer",
       "devices": ["surya"]
+    },
+    {
+            "name": "MNoxx74",
+            "image": "https://avatars.githubusercontent.com/u/81765576?v=4",
+            "github": "MNoxx74",
+            "telegram": "MNoxx74",
+            "XDA": "mnoxx74.11750893",
+            "role": "Maintainer",
+            "devices": ["cupidr"]
     }
   ]
 } 

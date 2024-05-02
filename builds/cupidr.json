@@ -1,0 +1,21 @@
+{
+            "maintainer": [
+        {
+            "display_name": "MNoxx74",
+            "telegram": "https://t.me/RealmeGT_Official",
+            "github": "https://github.com/MNoxx74"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "fourteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "Realme GT 5G",
+            "device_display_codename": "cupidr",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cupidr/",
+            "version": "fourteen",
+            "active": true,
+            "customRecoveryRequired": true,
+            "xda": null
+}

@@ -268,6 +268,13 @@
           "active": true
        },
        {
+            "codename": "cupidr",
+            "vendor": "Realme",
+            "model": "Realme GT 5G",
+            "maintainer_name": "MNoxx74",
+            "active": true
+       },
+       {
           "codename": "beyond",
           "vendor": "Samsung",
           "model": "Galay s10 series",
