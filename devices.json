@@ -249,9 +249,9 @@
        {
           "codename": "martini",
           "vendor": "OnePlus",
-          "model": "OnePlus 9RT",
+          "model": "OnePlus 9RT (EOL)",
           "maintainer_name": "Mrick343",
-          "active": true
+          "active": false
        },
        {
           "codename": "bladerunner",
@@ -308,6 +308,13 @@
           "model": "POCO F5 Pro/Redmi K60",
           "maintainer_name": "Lowxorx",
           "active": true
-       }
+       },
+       {
+          "codename": "topaz",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 12 4G",
+          "maintainer_name": "artemscine",
+          "active": true
+      }
   ]
 }
