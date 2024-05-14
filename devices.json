@@ -85,13 +85,6 @@
           "active": true
        },
        {
-          "codename": "monet",
-          "vendor": "Xiaomi",
-          "model": "Mi 10 Lite 5G",
-          "maintainer_name": "Alec Chan",
-          "active": true
-       },
-       {
           "codename": "stone",
           "vendor": "Xiaomi",
           "model": "Redmi Note 12 / POCO X5 5G",
@@ -307,6 +300,13 @@
           "vendor": "Xiaomi",
           "model": "POCO F5 Pro/Redmi K60",
           "maintainer_name": "Lowxorx",
+          "active": true
+       },
+       {
+          "codename": "monet",
+          "vendor": "Xiaomi",
+          "model": "Mi 10 Lite 5G",
+          "maintainer_name": "Alec Chan",
           "active": true
        },
        {
