@@ -211,11 +211,11 @@
           "active": true
        },
        {
-            "codename": "lemonades",
-            "vendor": "OnePlus",
-            "model": "OnePlus 9R",
-            "maintainer_name": "zizzyboi",
-            "active": true
+          "codename": "lemonades",
+          "vendor": "OnePlus",
+          "model": "OnePlus 9R",
+          "maintainer_name": "zizzyboi",
+          "active": true
        },
        {
           "codename": "lemonade",
@@ -236,7 +236,10 @@
           "codename": "surya",
           "vendor": "Xiaomi",
           "model": "POCO X3/POCO X3 NFC",
-          "maintainer_name": ["lily985", "Muichir09"],
+          "maintainer_name": [
+             "lily985",
+             "Muichir09"
+          ],
           "active": true
        },
        {
@@ -261,23 +264,65 @@
           "active": true
        },
        {
-            "codename": "cupidr",
-            "vendor": "Realme",
-            "model": "Realme GT 5G",
-            "maintainer_name": "MNoxx74",
-            "active": true
-       },
-       {
-          "codename": "beyond",
-          "vendor": "Samsung",
-          "model": "Galay s10 series",
-          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "codename": "cupidr",
+          "vendor": "Realme",
+          "model": "Realme GT 5G",
+          "maintainer_name": "MNoxx74",
           "active": true
        },
        {
           "codename": "f62",
           "vendor": "Samsung",
-          "model": "Galaxy f62",
+          "model": "Samsung Galaxy F62",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "d2x",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy Note 10+ 5G",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "d2s",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy Note 10+",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "d1",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy Note 10",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "beyondx",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy S10 5G",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "beyond2lte",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy S10+",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "beyond1lte",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy S10",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
+          "codename": "beyond0lte",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy S10e",
           "maintainer_name": "FrEeRuNnEr4EvEr",
           "active": true
        },
@@ -315,6 +360,6 @@
           "model": "Redmi Note 12 4G",
           "maintainer_name": "artemscine",
           "active": true
-      }
+       }
   ]
 }

@@ -254,6 +254,15 @@
       "XDA": "artemscine",
       "role": "Maintainer",
       "devices": ["topaz"]
+    },
+    {
+      "name": "FrEeRuNnEr4EvEr",
+      "image": "https://avatars.githubusercontent.com/u/33235594?v=4",
+      "github": "LeDrew2017",
+      "telegram": "FreeRunner4ever",
+      "XDA": "freerunner2017.8483983",
+      "role": "Maintainer",
+      "devices": ["beyond0lte","beyond1lte","beyond2lte","beyondx","d1","d2s","d2x","f62"]
     }
   ]
 } 
