@@ -263,6 +263,15 @@
       "XDA": "freerunner2017.8483983",
       "role": "Maintainer",
       "devices": ["beyond0lte","beyond1lte","beyond2lte","beyondx","d1","d2s","d2x","f62"]
+    },
+    {
+      "name": "JoseMCC",
+      "image": "https://i.imgur.com/0J0IuQE.jpg",
+      "github": "JoseMCCGit",
+      "telegram": "josemcc0705",
+      "XDA": null,
+      "role": "Maintainer",
+      "devices": ["dubai"]
     }
   ]
 } 
