@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "GameNCode",
+            "telegram": "https://t.me/RoysROMBuilds",
+            "github": "https://github.com/royweisfeld"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Redmi Note 13 Pro 5G/Poco X6 5G",
+    "device_display_codename": "garnet",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/garnet/",
+    "version": "fourteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

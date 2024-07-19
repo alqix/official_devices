@@ -272,6 +272,15 @@
       "XDA": null,
       "role": "Maintainer",
       "devices": ["dubai"]
+    },
+    {
+      "name": "GameNCode",
+      "image": "https://avatars.githubusercontent.com/u/35576623?v=4",
+      "github": "royweisfeld",
+      "telegram": "gamencode",
+      "XDA": "GameNCode",
+      "role": "Maintainer",
+      "devices": ["garnet"]
     }
   ]
 } 
