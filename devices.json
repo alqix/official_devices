@@ -122,9 +122,9 @@
        {
           "codename": "violet",
           "vendor": "Xiaomi",
-          "model": "Redmi Note 7 Pro",
+          "model": "Redmi Note 7 Pro (EOL)",
           "maintainer_name": "CuriousNom",
-          "active": true
+          "active": false
        },
        {
           "codename": "vayu",
