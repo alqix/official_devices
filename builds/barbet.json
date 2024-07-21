@@ -1,0 +1,22 @@
+{
+            "maintainer": [
+        {
+            "display_name": "306bobby",
+            "telegram": "https://t.me/crdroid_barbet",
+            "github": "https://github.com/306bobby-android"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "fourteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "Pixel 5a",
+            "device_display_codename": "barbet",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/barbet/",
+            "version": "fourteen",
+            "active": true,
+            "customRecoveryRequired": true,
+            "xda": "https://xdaforums.com/t/rom-unofficial-14-0-project-matrixx-10-6-1-for-barbet.4681385"
+        }
+

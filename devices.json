@@ -50,6 +50,27 @@
           "active": true
        },
        {
+          "codename": "barbet",
+          "vendor": "Google",
+          "model": "Pixel 5a",
+          "maintainer_name": "306bobby",
+          "active": true
+       },
+       {
+          "codename": "bramble",
+          "vendor": "Google",
+          "model": "Pixel 4a 5G",
+          "maintainer_name": "306bobby",
+          "active": true
+       },
+       {
+          "codename": "redfin",
+          "vendor": "Google",
+          "model": "Pixel 5",
+          "maintainer_name": "306bobby",
+          "active": true
+       },
+       {
           "codename": "cepheus",
           "vendor": "Xiaomi",
           "model": "Mi 9",

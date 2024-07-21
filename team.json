@@ -281,6 +281,15 @@
       "XDA": "GameNCode",
       "role": "Maintainer",
       "devices": ["garnet"]
-    }
+    },
+    {
+      "name": "306bobby",
+      "image": "https://builds.306bobbyandroid.download/misc/devposter.png",
+      "github": "306bobby-android",
+      "telegram": "the306bobby",
+      "XDA": "306bobby.12481463",
+      "role": "Maintainer",
+      "devices": ["redfin","bramble","barbet"]
+     }
   ]
 } 
