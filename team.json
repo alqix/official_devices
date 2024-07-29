@@ -193,15 +193,6 @@
       "devices": ["redwood"]
     },
     {
-      "name": "FPSensor",
-      "image": "https://i.imgur.com/zNV4rxq.png",
-      "github": "FPSensor",
-      "telegram": "FPSensor",
-      "XDA": "fpsensor.11354229",
-      "role": "Maintainer",
-      "devices": ["cypfq"]
-    },
-    {
       "name": "Alec Chan",
       "image": "https://avatars.githubusercontent.com/u/88945170?s=400&v=4",
       "github": "alecchangod",
