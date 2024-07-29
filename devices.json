@@ -211,6 +211,13 @@
           "active": true
        },
        {
+          "codename": "Pong",
+          "vendor": "Nothing",
+          "model": "Nothing Phone (2)",
+          "maintainer_name": "Drishal",
+          "active": true
+       },
+       {
           "codename": "hotdogb",
           "vendor": "OnePlus",
           "model": "OnePlus 7T",

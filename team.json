@@ -290,6 +290,15 @@
       "XDA": "306bobby.12481463",
       "role": "Maintainer",
       "devices": ["redfin","bramble","barbet"]
-     }
+     },
+    {
+      "name": "Drishal",
+      "image": "https://i.imgur.com/hMJWMzX.jpg",
+      "github": "Drishal",
+      "telegram": "Drishal",
+      "XDA": "drishal.7811174",
+      "role": "Maintainer",
+      "devices": ["Pong"]
+    }   
   ]
 } 
