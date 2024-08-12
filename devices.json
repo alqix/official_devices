@@ -92,6 +92,13 @@
           "active": true
        },
        {
+            "codename": "sky",
+            "vendor": "Xiaomi",
+            "model": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
+            "maintainer_name": "alanpdk",
+            "active": true
+       },
+       {
           "codename": "veux",
           "vendor": "Xiaomi",
           "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
