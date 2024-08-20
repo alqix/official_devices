@@ -274,15 +274,6 @@
       "devices": ["garnet"]
     },
     {
-      "name": "306bobby",
-      "image": "https://builds.306bobbyandroid.download/misc/devposter.png",
-      "github": "306bobby-android",
-      "telegram": "the306bobby",
-      "XDA": "306bobby.12481463",
-      "role": "Maintainer",
-      "devices": ["redfin","bramble","barbet"]
-     },
-    {
       "name": "Drishal",
       "image": "https://i.imgur.com/hMJWMzX.jpg",
       "github": "Drishal",
@@ -292,13 +283,13 @@
       "devices": ["Pong"]
     },
     {
-            "name": "Allan DSouza(alanpdk)",
-            "image": "https://avatars.githubusercontent.com/u/1223138?v=4",
-            "github": "alanpdk",
-            "telegram": "alanpdk",
-            "XDA": "alands.4302129",
-            "role": "Maintainer",
-            "devices": ["sky"]
+      "name": "Allan DSouza(alanpdk)",
+      "image": "https://avatars.githubusercontent.com/u/1223138?v=4",
+      "github": "alanpdk",
+      "telegram": "alanpdk",
+      "XDA": "alands.4302129",
+      "role": "Maintainer",
+      "devices": ["sky"]
     }
   ]
 } 

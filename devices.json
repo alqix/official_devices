@@ -31,44 +31,23 @@
        {
           "codename": "lynx",
           "vendor": "Google",
-          "model": "Pixel 7a",
+          "model": "Pixel 7a (EOL)",
           "maintainer_name": "Pyrtle93",
-          "active": true
+          "active": false
        },
        {
           "codename": "panther",
           "vendor": "Google",
-          "model": "Pixel 7",
+          "model": "Pixel 7 (EOL)",
           "maintainer_name": "Pyrtle93",
-          "active": true
+          "active": false
        },
        {
           "codename": "cheetah",
           "vendor": "Google",
-          "model": "Pixel 7 Pro",
+          "model": "Pixel 7 Pro (EOL)",
           "maintainer_name": "Pyrtle93",
-          "active": true
-       },
-       {
-          "codename": "barbet",
-          "vendor": "Google",
-          "model": "Pixel 5a",
-          "maintainer_name": "306bobby",
-          "active": true
-       },
-       {
-          "codename": "bramble",
-          "vendor": "Google",
-          "model": "Pixel 4a 5G",
-          "maintainer_name": "306bobby",
-          "active": true
-       },
-       {
-          "codename": "redfin",
-          "vendor": "Google",
-          "model": "Pixel 5",
-          "maintainer_name": "306bobby",
-          "active": true
+          "active": false
        },
        {
           "codename": "cepheus",
