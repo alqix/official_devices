@@ -136,9 +136,9 @@
        {
           "codename": "sweet",
           "vendor": "Xiaomi",
-          "model": "Redmi Note 10 Pro",
+          "model": "Redmi Note 10 Pro (EOL)",
           "maintainer_name": "kamlesh-patel",
-          "active": true
+          "active": false
        },
        {
           "codename": "spes",
