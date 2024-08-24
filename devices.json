@@ -306,6 +306,13 @@
           "active": true
        },
        {
+          "codename": "d1x",
+          "vendor": "Samsung",
+          "model": "Samsung Galaxy Note 10 5G",
+          "maintainer_name": "FrEeRuNnEr4EvEr",
+          "active": true
+       },
+       {
           "codename": "d2x",
           "vendor": "Samsung",
           "model": "Samsung Galaxy Note 10+ 5G",
