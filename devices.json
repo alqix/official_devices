@@ -115,8 +115,8 @@
        {
           "codename": "sweet",
           "vendor": "Xiaomi",
-          "model": "Redmi Note 10 Pro (EOL)",
-          "maintainer_name": "kamlesh-patel",
+          "model": "Redmi Note 10 Pro",
+          "maintainer_name": "",
           "active": false
        },
        {
@@ -129,7 +129,7 @@
        {
           "codename": "violet",
           "vendor": "Xiaomi",
-          "model": "Redmi Note 7 Pro (EOL)",
+          "model": "Redmi Note 7 Pro",
           "maintainer_name": "CuriousNom",
           "active": false
        },
@@ -138,7 +138,7 @@
           "vendor": "Xiaomi",
           "model": "POCO X3 PRO",
           "maintainer_name": "Mrick343",
-          "active": true
+          "active": false
        },
        {
           "codename": "vili",
@@ -159,28 +159,28 @@
           "vendor": "Motorola",
           "model": "Moto G32",
           "maintainer_name": "Jay",
-          "active": true
+          "active": false
        },
        {
           "codename": "hawao",
           "vendor": "Motorola",
           "model": "Moto G42",
           "maintainer_name": "Jay",
-          "active": true
+          "active": false
        },
        {
           "codename": "rhode",
           "vendor": "Motorola",
           "model": "Moto G52",
           "maintainer_name": "Jay",
-          "active": true
+          "active": false
        },
        {
           "codename": "rhodep",
           "vendor": "Motorola",
           "model": "Moto G82 5G",
           "maintainer_name": "IczYn",
-          "active": true
+          "active": false
        },
        {
          "codename": "dubai",
@@ -273,7 +273,7 @@
        {
           "codename": "martini",
           "vendor": "OnePlus",
-          "model": "OnePlus 9RT (EOL)",
+          "model": "OnePlus 9RT",
           "maintainer_name": "Mrick343",
           "active": false
        },
@@ -287,7 +287,7 @@
        {
           "codename": "RMX2020",
           "vendor": "Realme",
-          "model": "C3",
+          "model": "Realme C3",
           "maintainer_name": "Rinto",
           "active": true
        },

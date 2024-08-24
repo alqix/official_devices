@@ -22,6 +22,14 @@
       "role": "Website maintainer"
     },
     {
+      "name": "KSSRAO",
+      "image": "https://i.imgur.com/cmq0JKy.jpg",
+      "github": "kssrao13882",
+      "telegram": "kssrao13882",
+      "XDA": "kssrao13882.11649931",
+      "role": "Retired team member"
+    },
+    {
       "name": "Mukesh Singh",
       "image": "https://i.imgur.com/5c8kkdA.jpg",
       "github": "mukesh22584",
@@ -36,8 +44,8 @@
       "github": "Mrick343",
       "telegram": "Mrick343",
       "XDA": "mrick343.12517809",
-      "role": "Core-Member and Maintainer",
-      "devices": ["martini", "vayu"]
+      "role": "Core-Member",
+      "devices": [""]
     },
     {
       "name": "AAMIR ALI",
@@ -47,6 +55,24 @@
       "XDA": "aamirr-ali.12795278",
       "role": "Core-Member and Maintainer",
       "devices": ["bladerunner"]
+    },
+    {
+      "name": "Arijit Saha",
+      "image": "https://i.imgur.com/M6mbjtC.jpg",
+      "github": "Arijit78",
+      "telegram": "whyred_404",
+      "XDA": "whyred_404.12444399",
+      "role": "Core-Member and Maintainer",
+      "devices": ["whyred", "stone"]
+    },
+    {
+      "name": "RoxoR",
+      "image": "https://i.imgur.com/PExkkGL.png",
+      "github": "Roxor-007",
+      "telegram": "Roxor007",
+      "XDA": "0_roxor_0.7090065",
+      "role": "Core-Member and Maintainer",
+      "devices": ["alioth", "aliothin"]
     },
     {
       "name": "CHAITANYA",
@@ -112,22 +138,13 @@
       "devices": ["X01AD"]
     },
     {
-      "name": "RoxoR",
-      "image": "https://i.imgur.com/PExkkGL.png",
-      "github": "Roxor-007",
-      "telegram": "Roxor007",
-      "XDA": "0_roxor_0.7090065",
-      "role": "Maintainer",
-      "devices": ["alioth", "aliothin"]
-    },
-    {
       "name": "Aryan",
       "image": "https://i.imgur.com/Kx8eHPV.jpg",
       "github": "CuriousNom",
       "telegram": "CuriousNom",
       "XDA": "the_riderrr.12773444",
       "role": "Maintainer",
-      "devices": ["violet", "gta4lwifi"]
+      "devices": ["gta4lwifi"]
     },
     {
       "name": "Pyrtle93",
@@ -135,7 +152,7 @@
       "github": "Pyrtle93",
       "telegram": "Pyrtle93",
       "XDA": "axxpyrtlexx20.5392313",
-      "role": "Maintainer",
+      "role": "Inactive Maintainer",
       "devices": ["cheetah", "panther", "lynx"]
     },
     {
@@ -146,15 +163,6 @@
       "XDA": "kamlesh-vasnjaliya.12794994",
       "role": "Maintainer",
       "devices": ["sweet", "sweetin"]
-    },
-    {
-      "name": "Arijit Saha",
-      "image": "https://i.imgur.com/M6mbjtC.jpg",
-      "github": "Arijit78",
-      "telegram": "whyred_404",
-      "XDA": "whyred_404.12444399",
-      "role": "Maintainer",
-      "devices": ["whyred", "stone"]
     },
     {
       "name": "zizzyboi",
