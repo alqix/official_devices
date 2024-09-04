@@ -180,7 +180,7 @@
           "vendor": "Motorola",
           "model": "Moto G82 5G",
           "maintainer_name": "IczYn",
-          "active": false
+          "active": true
        },
        {
          "codename": "dubai",
