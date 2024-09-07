@@ -395,6 +395,13 @@
           "model": "Redmi Note 12 4G",
           "maintainer_name": "artemscine",
           "active": true
+       },
+       {
+          "codename": "beryllium",
+          "vendor": "Xiaomi",
+          "model": "POCO F1",
+          "maintainer_name": "NotDheeraj06",
+          "active": true
        }
   ]
 }
