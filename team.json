@@ -298,6 +298,15 @@
       "XDA": "alands.4302129",
       "role": "Maintainer",
       "devices": ["sky"]
+    },
+    {
+      "name": "NotDheeraj06",
+      "image": "https://avatars.githubusercontent.com/u/97652816?v=4",
+      "github": "Dheeraj3031A",
+      "telegram": "NotDheeraj06",
+      "XDA": "Dheeraj3031A",
+      "role": "Maintainer",
+      "devices": ["beryllium"]
     }
   ]
 } 
