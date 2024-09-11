@@ -289,6 +289,15 @@
       "XDA": "Dheeraj3031A",
       "role": "Maintainer",
       "devices": ["beryllium"]
+    },
+    {
+      "name": "alqix",
+      "image": "https://avatars.githubusercontent.com/u/95102781?v=4",
+      "github": "alqix",
+      "telegram": "alqix0",
+      "XDA": "hatea73.12817186",
+      "role": "Core-Member and Maintainer",
+      "devices": ["a73xq","m52xq"]
     }
   ]
 } 

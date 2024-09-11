@@ -402,6 +402,20 @@
           "model": "POCO F1",
           "maintainer_name": "NotDheeraj06",
           "active": true
+       },
+       {
+    	  "codename": "a73xq",
+    	  "vendor": "Samsung",
+    	  "model": "Samsung A73 5G",
+    	  "maintainer_name": "alqix",
+    	  "active": true
+       },
+       {
+    	  "codename": "m52xq",
+    	  "vendor": "Samsung",
+    	  "model": "Samsung M52 5G",
+    	  "maintainer_name": "alqix",
+    	  "active": true
        }
   ]
 }
