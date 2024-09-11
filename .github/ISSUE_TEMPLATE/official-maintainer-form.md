@@ -2,7 +2,7 @@
 name: Official maintainer form
 about: Apply to become an Official maintainer for Project-Matrixx
 title: New maintainer
-assignees: [ Mrick343, RDS-007, CuriousNom]
+assignees: [Roxor-007, CuriousNom, Arijit78]
 ---
 
 <!--
